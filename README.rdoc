@@ -5,15 +5,21 @@
 -  package requirements -
 
 1) urxvt - included in mooOs
+
 2) konsole - included in mooOs
+
 3) firefox-aurora - https://aur.archlinux.org/packages/firefox-aurora/
+
 4) maxthon - https://aur.archlinux.org/packages/maxthon-browser/
+
 5) sublime text editor v3 - included in mooOs
 
 - optional package requirements - 64 bit links -
 
 1) pa-applet - https://aur.archlinux.org/packages/pa-applet-git/
+
 2) caffeine - https://aur.archlinux.org/packages/caffeine-bzr/
+
 3) plank - https://www.archlinux.org/packages/community/x86_64/plank/
 
 - tags are what other WM call “Desktops”.
