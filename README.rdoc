@@ -1,0 +1,80 @@
+- mooOs - 
+
+- awesome window manager -
+
+-  package requirements -
+
+1) urxvt - included in mooOs
+2) konsole - included in mooOs
+3) firefox-aurora - https://aur.archlinux.org/packages/firefox-aurora/
+4) maxthon - https://aur.archlinux.org/packages/maxthon-browser/
+5) sublime text editor v3 - included in mooOs
+
+- optional package requirements - 64 bit links -
+
+1) pa-applet - https://aur.archlinux.org/packages/pa-applet-git/
+2) caffeine - https://aur.archlinux.org/packages/caffeine-bzr/
+3) plank - https://www.archlinux.org/packages/community/x86_64/plank/
+
+- tags are what other WM call “Desktops”.
+
+- A “client” is the term for basically an application window.
+
+- Mod4, Super and Windows are the key between Alt and Ctrl.
+
+Window manager control
+
+    Mod4 + Control + r - Restart awesome.
+    Mod4 + Shift + q - Quit awesome.
+    Mod4 + r - Run prompt.
+    Mod4 + x - Run Lua code prompt.
+    Mod4 + Return - Spawn urxvt terminal emulator.
+    Mod4 + Shift + Return - Spawn konsole terminal emulator.
+    Mod4 + w - Open main menu.
+    Mod4 + q - Spawn firefox browser.
+    Mod4 + i - Spawn maxthon browser.
+    Mod4 + s - Spawn sublime text editor.
+    Mod4 + d - Spawn dolphin filemanager.
+    Alt + W - Weather
+    Mouse Button #9 - Close Window
+
+Clients
+
+    Mod4 + Shift + r - Redraw the focused window.
+    Mod4 + m - Maximize client.
+    Mod4 + n - Minimize client.
+    Mod4 + f - Set client fullscreen.
+    Mod4 + Shift + c - Kill focused client.
+    Mod4 + t - Mark a client.
+
+Navigation
+
+    Mod4 + j - Focus next client.
+    Mod4 + k - Focus previous client.
+    Mod4 + u - Focus first urgent client.
+    Mod4 + Left - View previous tag.
+    Mod4 + Right - View next tag.
+    Mod4 + 1-9 - Switch to tag 1-9.
+    Mod4 + Control + j - Focus next screen.
+    Mod4 + Control + k - Focus previous screen.
+    Mod4 + Escape - Focus previously selected tag set.
+
+Layout modification
+
+    Mod4 + Shift + j - Switch client with next client.
+    Mod4 + Shift + k - Switch client with previous client.
+    Mod4 + o - Send client to next screen.
+    Mod4 + h - Decrease master width factor by 5%.
+    Mod4 + l - Increase master width factor by 5%.
+    Mod4 + Shift + h - Increase number of master windows by 1.
+    Mod4 + Shift + l - Decrease number of master windows by 1.
+    Mod4 + Control + h - Increase number of columns for non-master windows by 1.
+    Mod4 + Control + l - Decrease number of columns for non-master windows by 1.
+    Mod4 + space - Switch to next layout.
+    Mod4 + Shift + space - Switch to previous layout.
+    Mod4 + Control + space - Toggle client floating status.
+    Mod4 + Control + Return - Swap focused client with master.
+    Mod4 + Control + 1-9 - Toggle tag view.
+    Mod4 + Shift + 1-9 - Tag client with tag.
+    Mod4 + Shift + Control + 1-9 - Toggle tag on client.
+    Mod4 + Shift + F1-9 - Tag marked clients with tag.
